@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\bin\Debug\net8.0\Prep4.exe
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\bin\Debug\net8.0\Prep4.deps.json
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\bin\Debug\net8.0\Prep4.runtimeconfig.json
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\bin\Debug\net8.0\Prep4.dll
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\bin\Debug\net8.0\Prep4.pdb
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\obj\Debug\net8.0\Prep4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\obj\Debug\net8.0\Prep4.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\obj\Debug\net8.0\Prep4.AssemblyInfo.cs
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\obj\Debug\net8.0\Prep4.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\obj\Debug\net8.0\Prep4.dll
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\obj\Debug\net8.0\refint\Prep4.dll
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\obj\Debug\net8.0\Prep4.pdb
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\obj\Debug\net8.0\Prep4.genruntimeconfig.cache
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\week01\Prep4\obj\Debug\net8.0\ref\Prep4.dll
