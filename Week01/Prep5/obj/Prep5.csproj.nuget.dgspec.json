@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive - BYU-Idaho\\Homework\\program-with-classes\\week01\\Prep5\\Prep5.csproj": {}
+    "C:\\Users\\PC\\OneDrive - BYU-Idaho\\Homework\\program-with-classes\\Week01\\Prep5\\Prep5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive - BYU-Idaho\\Homework\\program-with-classes\\week01\\Prep5\\Prep5.csproj": {
+    "C:\\Users\\PC\\OneDrive - BYU-Idaho\\Homework\\program-with-classes\\Week01\\Prep5\\Prep5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive - BYU-Idaho\\Homework\\program-with-classes\\week01\\Prep5\\Prep5.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\OneDrive - BYU-Idaho\\Homework\\program-with-classes\\Week01\\Prep5\\Prep5.csproj",
         "projectName": "Prep5",
-        "projectPath": "C:\\Users\\PC\\OneDrive - BYU-Idaho\\Homework\\program-with-classes\\week01\\Prep5\\Prep5.csproj",
+        "projectPath": "C:\\Users\\PC\\OneDrive - BYU-Idaho\\Homework\\program-with-classes\\Week01\\Prep5\\Prep5.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive - BYU-Idaho\\Homework\\program-with-classes\\week01\\Prep5\\obj\\",
+        "outputPath": "C:\\Users\\PC\\OneDrive - BYU-Idaho\\Homework\\program-with-classes\\Week01\\Prep5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
