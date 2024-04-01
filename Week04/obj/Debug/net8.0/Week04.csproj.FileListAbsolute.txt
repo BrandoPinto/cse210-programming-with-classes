@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\obj\Debug\net8.0\Week04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\obj\Debug\net8.0\Week04.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\obj\Debug\net8.0\Week04.AssemblyInfo.cs
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\obj\Debug\net8.0\Week04.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\obj\Debug\net8.0\Week04.sourcelink.json
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\bin\Debug\net8.0\Week04.exe
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\bin\Debug\net8.0\Week04.deps.json
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\bin\Debug\net8.0\Week04.runtimeconfig.json
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\bin\Debug\net8.0\Week04.dll
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\bin\Debug\net8.0\Week04.pdb
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\obj\Debug\net8.0\Week04.dll
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\obj\Debug\net8.0\refint\Week04.dll
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\obj\Debug\net8.0\Week04.pdb
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\obj\Debug\net8.0\Week04.genruntimeconfig.cache
+C:\Users\PC\OneDrive - BYU-Idaho\Homework\program-with-classes\Week04\obj\Debug\net8.0\ref\Week04.dll
